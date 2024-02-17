@@ -13,6 +13,9 @@ avatar: /images/231102-VIVIZ-MANIAC-MV-Behind-Photos-by-Dispatch-documents-4.jpe
 #
 # Flags below are optional
 #
+lang: ko-KR
+timezone: Asia/Seoul
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:

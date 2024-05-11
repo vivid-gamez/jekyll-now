@@ -10,7 +10,7 @@ title: 단순 연결 리스트 기초구현(Singly Linked List)
 
 글로 코드를 외우기만 했지 직접 짜보기는 처음이라, 생각보다 어렵게 느껴졌다.<br>
 이 포스팅에서는 단순 연결 리스트에서 <br> 
-<b>새 노드 생성</b>, <b>첫 번째 노드의 위치에 삽입</b>, 출력의 세 가지 기능만 구현해보았다.<br>
+<b>새 노드 생성</b>, <b>첫 번째 노드의 위치에 삽입, 출력</b>의 세 가지 기능만 구현해보았다.<br>
 
 ![image](https://github.com/vivid-gamez/vivid-gamez.github.io/assets/103167519/1b45bb7a-133a-40e8-b528-740952fba29f)
 
